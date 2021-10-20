@@ -1,0 +1,9 @@
+.title{text-align: center;}
+.red{color:palevioletred;}
+.font{background-color: powderblue;}
+.image{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    width: 750px;
+	height: 750px;}
